@@ -6,6 +6,7 @@
 |-----|-----|------|
 | 2021-06-27 | 초안 작성 | 제49대 대학원 총학생회 edge 부회장 김수지 |
 | 2021-07-11 | 영문 번역 및 자치단체 홍보 프로세스 추가 | 제49대 대학원 총학생회 edge 부회장 김수지 |
+| 2021-07-11 | 영문 번역 시 번역 관련 안내 문구 추가, 자치단체 메일 발송 주체 설정 | 제49대 대학원 총학생회 edge 부회장 김수지 |
 
 ## 1. 레벨 포맷
 ~~~
@@ -47,6 +48,9 @@
 ## 3. 홍보 신청 방법
 ### 3-1. 영문 번역
 - **사업 담당자가** 영문으로 번역 진행 (온라인 서비스를 활용한 기계 번역)
+    - 영문 홍보글 상단에 번역에 관련한 **안내 문구 반드시** 추가
+    > This email or post is translated using automated translation and paraphrasing tools. If you have any suggestions or comments concerning our translation, please let us know. https://forms.gle/Yi6XrLD3dZ4dvedr5
+
 - 번역 담당자는 번역된 영문의 **검토만** 진행 (온라인 서비스를 활용한 인간 번역)
 - 참고 서비스:
     - 네이버 파파고: https://papago.naver.com/
