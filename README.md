@@ -49,7 +49,7 @@
 ### 3-1. 영문 번역
 - **사업 담당자가** 영문으로 번역 진행 (온라인 서비스를 활용한 기계 번역)
     - 영문 홍보글 상단에 번역에 관련한 **안내 문구 반드시** 추가
-    > This email or post is translated using automated translation and paraphrasing tools. If you have any suggestions or comments concerning our translation, please let us know. https://forms.gle/Yi6XrLD3dZ4dvedr5
+    > This email (post) has been translated by the automated system. If you have any suggestions or comments on our translation, please let us know via the following link: https://forms.gle/Yi6XrLD3dZ4dvedr5
 
 - 번역 담당자는 번역된 영문의 **검토만** 진행 (온라인 서비스를 활용한 인간 번역)
 - 참고 서비스:
